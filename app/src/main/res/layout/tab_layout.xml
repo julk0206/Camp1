@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.support.design.widget.TabLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tab_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.design.widget.TabItem
+        android:text="My관람후기"/>
+    <android.support.design.widget.TabItem
+        android:text="사진"/>
+    <android.support.design.widget.TabItem
+        android:text="월별가계부"
+</androidx.support.design.widget.TabLayout>
